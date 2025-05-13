@@ -1,0 +1,6 @@
+mkdir data-analysis-project
+cd data-analysis-project
+git init
+git remote add origin https://github.com/yourusername/data-analysis-project.git
+git add .
+git commit -m "Initial commit: add data analysis script and visualizations"
